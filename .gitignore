@@ -1,0 +1,13 @@
+/PatientDemographicsSolution/packages/*
+/PatientDemographicsSolution/.vs/*
+/PatientDemographicsSolution/BusinessModels/bin/*
+/PatientDemographicsSolution/BusinessModels/obj/*
+/PatientDemographicsSolution/Logger/bin/*
+/PatientDemographicsSolution/Logger/obj/*
+/PatientDemographicsSolution/PatientDemographicsUI/bin/*
+/PatientDemographicsSolution/PatientDemographicsUI/obj/*
+/PatientDemographicsSolution/PatientDemographicsUnitTestProject/bin/*
+/PatientDemographicsSolution/PatientDemographicsUnitTestProject/obj/*
+/PatientDemographicsSolution/PDAPI/bin/*
+/PatientDemographicsSolution/PDAPI/obj/*
+/PatientDemographicsSolution/TestResults/*
